@@ -11,7 +11,7 @@ https://endo0507.github.io/certif/
 
 ## Career — 学歴・職歴
 - **[Saitama Institute of Technology](https://www.sit.ac.jp)**: 埼玉工業大学 工学部 情報システム学科 IT専攻 (令和8年3月卒業)
-- **[サンエイ・ソフトウエア・ジャパン株式会社](https://ssj-c.co.jp)**: プログラマー (令和8年4月入社)
+- **[サンエイ・ソフトウエア・ジャパン株式会社](https://ssj-c.co.jp)**: システム開発部 (令和8年4月入社)
 
 ## Skills — プログラミングスキル
 使ったことはあるが使えるとは言ってない。
